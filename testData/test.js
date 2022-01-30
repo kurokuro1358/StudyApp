@@ -133,7 +133,7 @@ $(function(){
         stepTest();
     });
 
-    $(document).on('keydown', function(e){
+    $(document).on('click', function(e){
         if(nowType === "word") stepTest();
     });
 
