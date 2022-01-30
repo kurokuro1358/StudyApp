@@ -133,7 +133,7 @@ $(function(){
         stepTest();
     });
 
-    $(document).on('click', function(e){
+    $(document).on('dblclick', function(e){
         if(nowType === "word") stepTest();
     });
 
