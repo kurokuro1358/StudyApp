@@ -1,0 +1,62 @@
+.title {
+    font-family: 'Bangers', cursive!important;
+    font-size: 70px !important;
+    font-weight: bold !important;
+    color: #F9DC5C !important;
+    text-shadow: 2px 2px 0 #4DA167 !important;
+    text-decoration: none !important;
+}
+
+.title > a:hover{
+    text-decoration: none;
+}
+
+.card {
+    border: 0px !important;
+}
+
+.card-header {
+    background-color: #403F4C !important;
+}
+
+.card-header button {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wordplace {
+    color: #2D3A3A;
+    font-size: 70px;
+    font-weight: bold;
+    background-color: #FCFFFC;
+    border-color: #2D3A3A;
+}
+
+#timer > button {
+    /* font-size: 40px; */
+    border: 0px !important;
+    background-color: white;
+    display: none;
+}
+
+#startButton {
+    color: #20A4F3;
+}
+
+#correctButton {
+    color: #04E762;
+}
+
+#falseButton {
+    color: #F24236;
+}
+
+#testName {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+
